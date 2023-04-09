@@ -1,6 +1,6 @@
 # ClearChatNK
 Requirements:
-Have the mod loader plugin
+[Have the mod loader plugin](https://cloudburstmc.org/resources/modloader.108/)
 
 Description:
 A simple plugin to Empty Player Chat!
