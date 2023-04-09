@@ -27,7 +27,8 @@ var ConfigClCh = {
 
     Message: "Se ha Limpiado el Chat!/Chat has been cleaned up!"
 
-};[/CODE]
+};
+[/CODE]
 If you want to make plugins for your server, do not hesitate to Contact Us!
 Discord: https://discord.gg/mrmHcwxXff
 20230207_215109.jpg
