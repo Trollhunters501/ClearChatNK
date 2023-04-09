@@ -5,6 +5,7 @@ Requirements:
 Description:
 A simple plugin to Empty Player Chat!
 It also has Automatic Mode!
+The player can also clear their chat with the /clearchat command.
 
 Plugin Installation:
 Place the zip file in the ModLoader folder and unzip and delete the zip file
