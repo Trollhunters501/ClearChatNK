@@ -11,7 +11,7 @@ Place the zip file in the ModLoader folder and unzip and delete the zip file
 
 Setting:
 Edit the .js file that came out after unzipping the zip file
-JavaScript:
+[CODE=javascript]
 //On the first line you will find this:
 var ConfigClCh = {
 
@@ -27,7 +27,7 @@ var ConfigClCh = {
 
     Message: "Se ha Limpiado el Chat!/Chat has been cleaned up!"
 
-};
+};[/CODE]
 If you want to make plugins for your server, do not hesitate to Contact Us!
 Discord: https://discord.gg/mrmHcwxXff
 20230207_215109.jpg
