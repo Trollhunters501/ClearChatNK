@@ -31,5 +31,6 @@ var ConfigClCh = {
 ```
 If you want to make plugins for your server, do not hesitate to Contact Us!
 Discord: https://discord.gg/mrmHcwxXff
-20230207_215109.jpg
+![image](https://user-images.githubusercontent.com/91704943/230763339-a5b59ec0-8c59-4c98-8938-57f0ad2cb512.png)
+
 2023©
