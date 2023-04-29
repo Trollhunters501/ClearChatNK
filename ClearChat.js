@@ -1,8 +1,8 @@
 var ConfigClCh = {
     //Do you want to activate the chat auto emptying? Only false or true
     autoClear: true,
-    //Just modify the number! the time in seconds
-    timeInterval: 1700,
+    //Just modify the number! the time in ticks example: 1200 = 1 minute
+    timeInterval: 18000,
     //The message you send when clearing the Chat!
     Message: "Se ha Limpiado el Chat!/Chat has been cleaned up!"
 };
@@ -17,7 +17,7 @@ var pluginNameClCh = "[" + pluginInfClCh.PluginName + "] ";
 function onEnable(){
     logger.info(pluginNameClCh + "§eLoading...");
     if(ConfigClCh.autoClear != false){
-      manager.createLoopTask("clearChatF", ConfigClCh.timeInterval * ConfigClCh.timeInterval);
+      manager.createLoopTask("clearChatF", ConfigClCh.timeInterval);
     }
     manager.createCommand("clearchat", "Vaciar tu chat!/Empty your chat!", "clearChatCommand");
     logger.info(pluginNameClCh + "§aLoaded!");
