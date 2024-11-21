@@ -14,4 +14,4 @@ jobs:
        uses: actions/upload-artifact@v4
        with:
          name: ClearChatNK
-         path: src/ClearChatNK-1.2.0.tgz
+         path: ClearChatNK-1.2.0.tgz
