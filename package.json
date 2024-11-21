@@ -3,5 +3,6 @@
     "author": "Creadores Program",
     "version": "1.2.0",
     "homepage": "https://github.com/Trollhunters501/ClearChatNK",
-    "main": "ClearChat.js"
+    "main": "ClearChat.js",
+    "description": "Clear your Chat!"
 }
